@@ -12,3 +12,14 @@ body {
   --p: hsla(0, 0%, 100%, 0.75);
   --head: hsla(0, 0%, 100%, 0.6);
 }
+
+
+/* Footer */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
